@@ -1,5 +1,6 @@
 {
-    "directory_name": "Hello",
-    "file_name": "Howdy",
-    "greeting_recipient": "Julie"
+    "directory_name": "Dir_Name",
+    "file_name": "File_Name",
+    "greeting_recipient": "greeting_recipient",
+    "input_one": "input_one"
 }
